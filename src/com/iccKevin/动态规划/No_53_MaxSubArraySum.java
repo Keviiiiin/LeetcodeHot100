@@ -5,6 +5,12 @@ package com.iccKevin.动态规划;
  * @author: iccKevin
  * @create: 2020-05-15 19:31
  **/
+
+/**
+ * [4,-1,2,1,-5,4]
+ * 注意从4到-1
+ *
+ */
 public class No_53_MaxSubArraySum {
     public int maxSubArray(int[] nums) {
         // if(nums.size() == 0 )   return 0;
